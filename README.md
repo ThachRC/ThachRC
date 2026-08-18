@@ -1,18 +1,12 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/193320765?v=4" width="130" height="130" style="border-radius: 50%;" alt="ThachRC avatar">
-</p>
-
-<h1 align="center">👾 Thạch • ThachRC</h1>
-
-<p align="center">
-  <b>Game Modder & Content Creator</b> <br>
-  🎮 Minecraft &nbsp;•&nbsp; 🌾 Stardew Valley &nbsp;•&nbsp; 🌐 Web Developer
+  <img src="assets/banner.svg" width="100%" alt="ThachRC banner">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ThachRC/ThachRC-Website"><img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"></a>
-  <a href="https://www.facebook.com/HThach0315"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://discord.gg/29yyZGGAaR"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=A78BFA&center=true&vCenter=true&width=620&height=45&lines=I'm+a+Game+Modder+%F0%9F%8E%AE;I+create+Minecraft+Modpacks+%E2%9B%8F%EF%B8%8F;I+localize+Stardew+Valley+%F0%9F%8C%BE;I+build+Websites+%F0%9F%8C%90" alt="Typing effect">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ThachRC&style=for-the-badge&color=8B5CF6" alt="Profile views">
 </p>
 
@@ -34,29 +28,31 @@
 ## 🛠️ Tech Stack / Kỹ năng
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot">
-  <img src="https://img.shields.io/badge/Game_Modding-4CAF50?style=for-the-badge&logo=gamepad&logoColor=white" alt="Game Modding">
+  <a href="https://github.com/ThachRC/ThachRC-Website">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,linux,discord&perline=8" alt="Tech skills">
+  </a>
 </p>
 
 ---
 
 ## 🚀 Featured Project / Dự án nổi bật
 
+<p align="center">
+  <a href="https://github.com/ThachRC/ThachRC-Website">
+    <img src="https://raw.githubusercontent.com/ThachRC/ThachRC-Website/main/minecraft_banner.jpg" width="100%" alt="ThachRC-Website banner">
+  </a>
+</p>
+
 ### 🌐 ThachRC-Website
 Trang web cá nhân giới thiệu các modpack game — thiết kế pixel art, hiệu ứng mưa pixel, giao diện theo chủ đề **Minecraft** & **Stardew Valley**.
 
-| | |
+| 🎮 | 🌾 |
 |---|---|
-| 🎮 ThachCraft (Minecraft) | Modpack Việt hóa với 46 mod, tài nguyên & shader đẹp |
-| 🌾 Stardew Valley Expanded | Mở rộng bản đồ, NPC, cốt truyện & giao diện |
+| **ThachCraft** — Modpack Minecraft Việt hóa với 46 mod, tài nguyên & shader đẹp | **Stardew Valley Expanded** — Mở rộng bản đồ, NPC, cốt truyện & giao diện |
 
 <p align="center">
   <a href="https://github.com/ThachRC/ThachRC-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachRC&repo=ThachRC-Website&theme=tokyonight&hide_border=true" alt="ThachRC-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThachRC&repo=ThachRC-Website&theme=tokyonight&hide_border=true" alt="ThachRC-Website card">
   </a>
 </p>
 
@@ -71,6 +67,26 @@ Trang web cá nhân giới thiệu các modpack game — thiết kế pixel art,
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThachRC&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ThachRC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThachRC&theme=tokyo-night&hide_border=true&bg_color=16162b&color=8b5cf6&line=a78bfa&point=e9d5ff&area=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <a href="https://github.com/ThachRC/ThachRC">
+    <img src="https://raw.githubusercontent.com/ThachRC/ThachRC/snake/github-contribution-grid-snake.svg" width="90%" alt="Snake eats my contributions">
+  </a>
 </p>
 
 ---
