@@ -70,12 +70,6 @@ Trang web cá nhân giới thiệu các modpack game — thiết kế pixel art,
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ThachRC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThachRC&theme=tokyo-night&hide_border=true&bg_color=16162b&color=8b5cf6&line=a78bfa&point=e9d5ff&area=true" alt="GitHub Activity Graph">
 </p>
 
